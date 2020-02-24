@@ -1,2 +1,3 @@
 # travel_template
-Wordpress template for travel blog
+
+Template for travel blog made with html, scss and javascript
